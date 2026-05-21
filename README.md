@@ -15,6 +15,6 @@ I'm a data scientist focused on forecasting, rare-event prediction, and the data
 
 ## Find me elsewhere
 
-- Personal site: andybeger.com
-- Bluesky: @andybeger.bsky.social
+- LinkedIn: [andreasbeger](https://www.linkedin.com/in/andreasbeger/)
+- Personal site: [andybeger.com]([https://andybeger.com](https://www.andybeger.com)]
 
