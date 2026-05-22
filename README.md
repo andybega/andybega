@@ -10,7 +10,7 @@ I'm a data scientist focused on forecasting, rare-event prediction, and the data
 ## Selected work
 
 - Peer-reviewed publications on political instability forecasting, hybrid human-machine forecasting (full list at [Google Scholar](https://scholar.google.com/citations?user=0QX5DXoAAAAJ)).
-- Open-source R packages for political event data: icews, states, acledr, spduration
+- Open-source R packages for political (event) data: icews, states, spduration
 - Hobby: CS & software engineering, e.g. [jlox interpreter (Java)](https://github.com/andybega/jlox)
 
 ## Find me elsewhere
